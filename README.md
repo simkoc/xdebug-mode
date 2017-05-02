@@ -1,7 +1,7 @@
 # Xdebug-mode
 
-This major mode is targeted to analyze a given
-machine readable xdebug file and supports the
+This major mode is targeted to help analyzing a given
+machine readable xdebug file. It currently supports the
 following features:
 
 * show/hide all lines belonging to the current callstack level
